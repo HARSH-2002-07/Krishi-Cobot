@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/ebot_navigation/ebot_navigation.egg-info/PKG-INFO
+writing dependency_links to ../../build/ebot_navigation/ebot_navigation.egg-info/dependency_links.txt
+writing entry points to ../../build/ebot_navigation/ebot_navigation.egg-info/entry_points.txt
+writing requirements to ../../build/ebot_navigation/ebot_navigation.egg-info/requires.txt
+writing top-level names to ../../build/ebot_navigation/ebot_navigation.egg-info/top_level.txt
+reading manifest file '../../build/ebot_navigation/ebot_navigation.egg-info/SOURCES.txt'
+writing manifest file '../../build/ebot_navigation/ebot_navigation.egg-info/SOURCES.txt'
+running build
+running build_py
+copying ebot_navigation/ebot_node.py -> /home/foxy/krishicobot_ws/build/ebot_navigation/build/lib/ebot_navigation
+running install
+running install_lib
+copying /home/foxy/krishicobot_ws/build/ebot_navigation/build/lib/ebot_navigation/ebot_node.py -> /home/foxy/krishicobot_ws/install/ebot_navigation/lib/python3.10/site-packages/ebot_navigation
+byte-compiling /home/foxy/krishicobot_ws/install/ebot_navigation/lib/python3.10/site-packages/ebot_navigation/ebot_node.py to ebot_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/foxy/krishicobot_ws/install/ebot_navigation/lib/python3.10/site-packages/ebot_navigation-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/ebot_navigation/ebot_navigation.egg-info to /home/foxy/krishicobot_ws/install/ebot_navigation/lib/python3.10/site-packages/ebot_navigation-0.0.0-py3.10.egg-info
+running install_scripts
+Installing ebot_node script to /home/foxy/krishicobot_ws/install/ebot_navigation/lib/ebot_navigation
+writing list of installed files to '/home/foxy/krishicobot_ws/build/ebot_navigation/install.log'

@@ -1,0 +1,3 @@
+[console_scripts]
+ebot_node = ebot_navigation.ebot_node:main
+

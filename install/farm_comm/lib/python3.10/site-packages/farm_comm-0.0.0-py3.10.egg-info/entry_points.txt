@@ -1,0 +1,3 @@
+[console_scripts]
+comm_node = farm_comm.comm_node:main
+

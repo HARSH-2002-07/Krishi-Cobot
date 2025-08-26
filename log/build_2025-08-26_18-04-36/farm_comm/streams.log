@@ -1,0 +1,37 @@
+[0.908s] Invoking command in '/home/foxy/krishicobot_ws/src/farm_comm': PYTHONPATH=/home/foxy/krishicobot_ws/build/farm_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/foxy/krishicobot_ws/install/farm_comm/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/farm_comm build --build-base /home/foxy/krishicobot_ws/build/farm_comm/build install --record /home/foxy/krishicobot_ws/build/farm_comm/install.log --single-version-externally-managed install_data
+[1.054s] running egg_info
+[1.054s] creating ../../build/farm_comm/farm_comm.egg-info
+[1.055s] writing ../../build/farm_comm/farm_comm.egg-info/PKG-INFO
+[1.055s] writing dependency_links to ../../build/farm_comm/farm_comm.egg-info/dependency_links.txt
+[1.056s] writing entry points to ../../build/farm_comm/farm_comm.egg-info/entry_points.txt
+[1.056s] writing requirements to ../../build/farm_comm/farm_comm.egg-info/requires.txt
+[1.056s] writing top-level names to ../../build/farm_comm/farm_comm.egg-info/top_level.txt
+[1.056s] writing manifest file '../../build/farm_comm/farm_comm.egg-info/SOURCES.txt'
+[1.056s] reading manifest file '../../build/farm_comm/farm_comm.egg-info/SOURCES.txt'
+[1.057s] writing manifest file '../../build/farm_comm/farm_comm.egg-info/SOURCES.txt'
+[1.057s] running build
+[1.057s] running build_py
+[1.057s] creating /home/foxy/krishicobot_ws/build/farm_comm/build
+[1.057s] creating /home/foxy/krishicobot_ws/build/farm_comm/build/lib
+[1.058s] creating /home/foxy/krishicobot_ws/build/farm_comm/build/lib/farm_comm
+[1.058s] copying farm_comm/comm_node.py -> /home/foxy/krishicobot_ws/build/farm_comm/build/lib/farm_comm
+[1.058s] copying farm_comm/__init__.py -> /home/foxy/krishicobot_ws/build/farm_comm/build/lib/farm_comm
+[1.058s] running install
+[1.059s] running install_lib
+[1.060s] creating /home/foxy/krishicobot_ws/install/farm_comm/lib/python3.10/site-packages/farm_comm
+[1.060s] copying /home/foxy/krishicobot_ws/build/farm_comm/build/lib/farm_comm/comm_node.py -> /home/foxy/krishicobot_ws/install/farm_comm/lib/python3.10/site-packages/farm_comm
+[1.060s] copying /home/foxy/krishicobot_ws/build/farm_comm/build/lib/farm_comm/__init__.py -> /home/foxy/krishicobot_ws/install/farm_comm/lib/python3.10/site-packages/farm_comm
+[1.060s] byte-compiling /home/foxy/krishicobot_ws/install/farm_comm/lib/python3.10/site-packages/farm_comm/comm_node.py to comm_node.cpython-310.pyc
+[1.060s] byte-compiling /home/foxy/krishicobot_ws/install/farm_comm/lib/python3.10/site-packages/farm_comm/__init__.py to __init__.cpython-310.pyc
+[1.060s] running install_data
+[1.060s] creating /home/foxy/krishicobot_ws/install/farm_comm/share/ament_index
+[1.060s] creating /home/foxy/krishicobot_ws/install/farm_comm/share/ament_index/resource_index
+[1.060s] creating /home/foxy/krishicobot_ws/install/farm_comm/share/ament_index/resource_index/packages
+[1.060s] copying resource/farm_comm -> /home/foxy/krishicobot_ws/install/farm_comm/share/ament_index/resource_index/packages
+[1.060s] copying package.xml -> /home/foxy/krishicobot_ws/install/farm_comm/share/farm_comm
+[1.061s] running install_egg_info
+[1.061s] Copying ../../build/farm_comm/farm_comm.egg-info to /home/foxy/krishicobot_ws/install/farm_comm/lib/python3.10/site-packages/farm_comm-0.0.0-py3.10.egg-info
+[1.061s] running install_scripts
+[1.075s] Installing comm_node script to /home/foxy/krishicobot_ws/install/farm_comm/lib/farm_comm
+[1.075s] writing list of installed files to '/home/foxy/krishicobot_ws/build/farm_comm/install.log'
+[1.105s] Invoked command in '/home/foxy/krishicobot_ws/src/farm_comm' returned '0': PYTHONPATH=/home/foxy/krishicobot_ws/build/farm_comm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/foxy/krishicobot_ws/install/farm_comm/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/farm_comm build --build-base /home/foxy/krishicobot_ws/build/farm_comm/build install --record /home/foxy/krishicobot_ws/build/farm_comm/install.log --single-version-externally-managed install_data

@@ -1,0 +1,24 @@
+[0.703s] Invoking command in '/home/foxy/krishicobot_ws/src/ebot_navigation': PYTHONPATH=/home/foxy/krishicobot_ws/build/ebot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/foxy/krishicobot_ws/install/ebot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ebot_navigation build --build-base /home/foxy/krishicobot_ws/build/ebot_navigation/build install --record /home/foxy/krishicobot_ws/build/ebot_navigation/install.log --single-version-externally-managed install_data
+[0.853s] running egg_info
+[0.853s] writing ../../build/ebot_navigation/ebot_navigation.egg-info/PKG-INFO
+[0.853s] writing dependency_links to ../../build/ebot_navigation/ebot_navigation.egg-info/dependency_links.txt
+[0.854s] writing entry points to ../../build/ebot_navigation/ebot_navigation.egg-info/entry_points.txt
+[0.854s] writing requirements to ../../build/ebot_navigation/ebot_navigation.egg-info/requires.txt
+[0.854s] writing top-level names to ../../build/ebot_navigation/ebot_navigation.egg-info/top_level.txt
+[0.855s] reading manifest file '../../build/ebot_navigation/ebot_navigation.egg-info/SOURCES.txt'
+[0.855s] writing manifest file '../../build/ebot_navigation/ebot_navigation.egg-info/SOURCES.txt'
+[0.855s] running build
+[0.855s] running build_py
+[0.855s] copying ebot_navigation/ebot_node.py -> /home/foxy/krishicobot_ws/build/ebot_navigation/build/lib/ebot_navigation
+[0.855s] running install
+[0.856s] running install_lib
+[0.856s] copying /home/foxy/krishicobot_ws/build/ebot_navigation/build/lib/ebot_navigation/ebot_node.py -> /home/foxy/krishicobot_ws/install/ebot_navigation/lib/python3.10/site-packages/ebot_navigation
+[0.856s] byte-compiling /home/foxy/krishicobot_ws/install/ebot_navigation/lib/python3.10/site-packages/ebot_navigation/ebot_node.py to ebot_node.cpython-310.pyc
+[0.856s] running install_data
+[0.857s] running install_egg_info
+[0.858s] removing '/home/foxy/krishicobot_ws/install/ebot_navigation/lib/python3.10/site-packages/ebot_navigation-0.0.0-py3.10.egg-info' (and everything under it)
+[0.858s] Copying ../../build/ebot_navigation/ebot_navigation.egg-info to /home/foxy/krishicobot_ws/install/ebot_navigation/lib/python3.10/site-packages/ebot_navigation-0.0.0-py3.10.egg-info
+[0.858s] running install_scripts
+[0.872s] Installing ebot_node script to /home/foxy/krishicobot_ws/install/ebot_navigation/lib/ebot_navigation
+[0.872s] writing list of installed files to '/home/foxy/krishicobot_ws/build/ebot_navigation/install.log'
+[0.891s] Invoked command in '/home/foxy/krishicobot_ws/src/ebot_navigation' returned '0': PYTHONPATH=/home/foxy/krishicobot_ws/build/ebot_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/foxy/krishicobot_ws/install/ebot_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ebot_navigation build --build-base /home/foxy/krishicobot_ws/build/ebot_navigation/build install --record /home/foxy/krishicobot_ws/build/ebot_navigation/install.log --single-version-externally-managed install_data
